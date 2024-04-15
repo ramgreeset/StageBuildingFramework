@@ -1,0 +1,2 @@
+# StageBuildingFramework
+Методика построения фреймворка
